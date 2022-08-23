@@ -1,0 +1,17 @@
+body{
+background-color:rgb(238, 102, 39);
+font-size: 4.2em;
+margin-top: 30%;
+text-align: center;
+}
+p{
+color: white;
+}
+a{
+text-decoration: none;
+}
+button{
+height: 6.5vh;
+background-color:white;
+margin-right: 90%;
+}

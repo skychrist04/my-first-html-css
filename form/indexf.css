@@ -1,0 +1,27 @@
+section{
+border: 2px solid black;
+width: 50vh;
+text-align: center;
+background-color: rgb(236, 94, 12);
+margin-left: 70%;
+margin-top: 5%;
+height: 70vh;
+}
+a{
+text-decoration: none;
+}
+button{
+background-color: rgb(36, 163, 36);
+border: 2px solid;
+height: 3.5vh;
+margin-top: 8vh;
+}
+input{
+    height: 3vh;
+    width:30vh ;
+}
+body{
+width: 60%;
+height: 60vh;
+
+}
